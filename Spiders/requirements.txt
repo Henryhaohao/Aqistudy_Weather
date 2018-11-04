@@ -1,0 +1,3 @@
+requests==2.20.0
+pycrypto==2.6.1
+pyDes==2.0.1
