@@ -1,4 +1,4 @@
-解密破解Aqistudy中国城市空气质量在线检测平台 ![enter image description here](Pic/logo.png)
+加密破解Aqistudy中国城市空气质量在线检测平台 ![enter image description here](Pic/logo.png)
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/pycrypto-2.6.1-green.svg) ![](https://img.shields.io/badge/pyDes-2.0.1-green.svg) 
 ### 中国城市空气质量在线检测平台 - https://www.aqistudy.cn/html/city_detail.html
@@ -12,7 +12,7 @@
 ### 软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！  
 
 ## :dolphin:介绍
-### 该项目为解密破解[中国城市空气质量在线检测平台Aqistudy](https://www.aqistudy.cn/html/city_detail.html)的天气数据
+### 该项目为加密破解[中国城市空气质量在线检测平台Aqistudy](https://www.aqistudy.cn/html/city_detail.html)的天气数据
 > **爬虫文件:Spiders目录下的aqistudy_weather.py**
 ## :dolphin:运行环境
 **Version: Python3**
