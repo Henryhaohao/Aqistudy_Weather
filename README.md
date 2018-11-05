@@ -12,8 +12,12 @@
 ### 软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！  
 
 ## :dolphin:介绍
-### 该项目为加密破解[中国城市空气质量在线检测平台Aqistudy](https://www.aqistudy.cn/html/city_detail.html)的天气数据
-> **爬虫文件:Spiders目录下的aqistudy_weather.py**
+### 该项目为加密破解[Aqistudy中国城市空气质量在线检测平台](https://www.aqistudy.cn/html/city_detail.html)的天气数据
+> - **爬虫文件:Spiders目录下的aqistudy_weather.py**
+> - **三种查询方式:**
+>  - get_aqistudy('GETDETAIL', '上海', 'HOUR', '2018-11-03 10:00:00', '2018-11-03 13:00:00')
+>  - get_aqistudy('GETCITYWEATHER', '上海', 'HOUR', '2018-11-03 10:00:00', '2018-11-03 13:00:00')
+>  - get_history('上海', '201811')**
 ## :dolphin:运行环境
 **Version: Python3**
 ## :dolphin:安装依赖库
