@@ -154,6 +154,6 @@ def get_history(city,month):
 
 if __name__ == '__main__':
     # 三种查询方式
-    get_aqistudy('GETDETAIL', '上海', 'HOUR', '2018-11-03 10:00:00', '2018-11-03 13:00:00')
-    get_aqistudy('GETCITYWEATHER', '上海', 'HOUR', '2018-11-03 10:00:00', '2018-11-03 13:00:00')
+    get_aqistudy('GETDETAIL', '上海', 'HOUR', '2018-11-06 05:00:00', '2018-11-06 08:00:00')
+    get_aqistudy('GETCITYWEATHER', '上海', 'HOUR', '2018-11-06 05:00:00', '2018-11-06 08:00:00')
     get_history('上海', '201811')
